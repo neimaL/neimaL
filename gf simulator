@@ -1,0 +1,25 @@
+<body>
+    <header>
+        <h2>luv points: <span id="count">10</span></h4>
+            <h3>comfort: <span id="comf">5</span></h3>
+            <h4> you have been dating for <span id="age">1</span> months</h4>
+            <header>
+                <style>
+                    h3 {
+                        color: lavender
+                    }
+
+                    h2 {
+                        color: lavender
+                    }
+
+                    h4 {
+                        color: lavender
+                    }
+
+                    body {
+                        background-color: #c4c3d0
+                    }
+                </style>
+                
+                
